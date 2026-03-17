@@ -8,3 +8,6 @@ __pycache__/
 
 # Ignorar arquivos de variáveis de ambiente (senhas futuras)
 .env
+
+# Código para mandar para o Git.
+.num
